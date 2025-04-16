@@ -10,3 +10,4 @@ Este projeto tem como objetivo explicar como funciona o processo de filtragem de
 <br>
 
 ## 🖼️ Imagens
+![img](https://github.com/user-attachments/assets/1474152c-c609-47c7-b9ed-2c2cabb7e8fc)
